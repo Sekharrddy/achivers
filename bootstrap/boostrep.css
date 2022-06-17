@@ -1,0 +1,123 @@
+.col-lg-2 {
+    color: white;
+    padding: 30px;
+  }
+
+  .col-lg-2:hover{
+        color: chocolate;
+        cursor: pointer;
+      }
+  .col-lg-12 {
+    padding: 15px;
+  }
+
+  .col-lg-12:hover {
+    border-radius: 20px;
+    background-color: tomato;
+    text-decoration: none;
+  }
+
+  .fab {
+    font-size: 60px;
+  }
+  .col-xl-2 {
+    font-size: 50px;
+  }
+  .border {
+    margin: 4px;
+  }
+
+  .col-2 {
+    font-size: 50px;
+  }
+
+  .garuda {
+    font-size: 70px;
+  }
+
+  .reddy:hover {
+    transform: scale(1.2);
+    background-color: rgb(52, 235, 16);
+    transition-duration: 1s;
+
+  }
+
+  .sekhar:hover {
+    transform: scale(1.2);
+  }
+
+  .vaddi:hover {
+    box-shadow: 0 0 25px 1px rgba(0, 0, 0, 0.15);
+  }
+
+  .top {
+    text-align: center;
+    color: lightseagreen;
+  }
+
+  .bottle:hover {
+    transform: scale(1.1);
+    background-color: lightseagreen;
+  }
+
+  .layer:hover {
+    transform: scale(1.1);
+  }
+
+  .bag {
+    margin-top: -48px;
+  }
+  .fas_a{
+    font-size: 60px;
+  }
+  .rrr{
+    background-image: url(./background.jpg);
+  }
+    .circle-icon{
+    transition-property: transform, color;
+    transition-duration: 0.8s;
+    -webkit-transition-property: -webkit-transform, color;
+    -webkit-transition-duration: 0.8s;
+    -ms-transition-property: -ms-transform, color;
+    -ms-transition-duration: 0.8s;
+    justify-content: space-around;
+    }
+    .circle-icon:hover{
+    color: #24a159 !important;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    }
+    .backgroundproperties{
+      background-image: url(./background1.jpg);
+    }
+    .laptop{
+      font-size: 30px;
+    }
+    .wheel{
+      font-size: 40px;
+    }
+    .btn-fixed{
+      position: fixed;
+      /* left: 1118px; */
+      right: -29px;
+      top: 50%;
+      transform: rotate(-90deg);
+    }
+    .desk{
+      
+      margin-left: 160px;
+      margin-bottom: 56px;
+    }
+    .btn-fixed{
+      background-color: cadetblue;
+    }
+    .aaaa{
+      background-image: url(./back-4.jpg);
+    }
+    .cccc{
+      margin-left: 500px;
+    }
+    .haaaa{
+      margin-top: -100px;
+    }
